@@ -1,7 +1,7 @@
 {
   "name": "ashikkaiser/micromailler",
   "type": "library",
-  "description": "Only for Our Services",
+  "description": "PHP Mailler Package",
   "authors": [
     {
       "name": "Ashik Kaiser",
